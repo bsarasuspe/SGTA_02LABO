@@ -1,0 +1,10 @@
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\bin\Debug\DatuAtzipenekoak.dll
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\bin\Debug\DatuAtzipenekoak.pdb
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\bin\Debug\DatuAtzipenekoak.xml
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\obj\Debug\DatuAtzipenekoak.vbproj.AssemblyReference.cache
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\obj\Debug\DatuAtzipenekoak.Resources.resources
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\obj\Debug\DatuAtzipenekoak.vbproj.GenerateResource.cache
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\obj\Debug\DatuAtzipenekoak.vbproj.CoreCompileInputs.cache
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\obj\Debug\DatuAtzipenekoak.dll
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\obj\Debug\DatuAtzipenekoak.xml
+C:\Users\bsara\Desktop\Unibertsitatea\3. Maila\SGTA\02_Labo\DatuAtzipenekoak\DatuAtzipenekoak\obj\Debug\DatuAtzipenekoak.pdb
